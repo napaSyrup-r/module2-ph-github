@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/napaSyrup-r/module2-ph-github.git
+git push -u origin main
+
+# Terminal open short cut: 
+1. ctrl+j
+2. ctrl+`
