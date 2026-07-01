@@ -1,10 +1,19 @@
+# 1. one time each project to start git
 git init
+
+# 2. every time to add
 git add .
+
+# 3. every time you commit 
 git commit -m "first commit"
+
+# 4. best practice for determining branch name 
 git branch -M main
+
+# 5. one time for each repo
 git remote add origin https://github.com/napaSyrup-r/module2-ph-github.git
+
+# 6.
 git push -u origin main
 
-# Terminal open short cut: 
-1. ctrl+j
-2. ctrl+`
+# Terminal open short cut: 1. ctrl+j   2. ctrl+`
